@@ -4,7 +4,4 @@
 * From **A**IX to **z**OS, I think I’ve worked with every \*nix.
 * Volunteering at [iOverlander.com](https://ioverlander.com).
 * Sometimes writing stuff at [https://bueti-online.ch](https://bueti-online.ch).
-* Located in 🇨🇭, working from 🏠.
-
-👋 Just a bunch of (old) repositories with nothing particularly interesting in them 🙂
-
+* Located in 🇨🇭, working from 🏔️.
